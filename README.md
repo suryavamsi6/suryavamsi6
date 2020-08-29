@@ -1,3 +1,4 @@
+<img src="https://github.com/suryavamsi6/suryavamsi6/edit/master/banner.img"></img>
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
 <h3 align="center">Final Year Student at SASTRA University</h3>
 

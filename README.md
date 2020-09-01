@@ -7,6 +7,7 @@
 <a href="https://www.reddit.com/user/suryavamsi06" targe="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='suryavamsi06' height='30' width="30"></a>
 </p>
 <img align="center" src="https://komarev.com/ghpvc/?username=your-github-suryavamsi6&style=flat-square&color=ff69b4"/>
+
 - 🔭 I’m currently working on my Final Year Project **Face Mask Detection**
 
 - 🌱 I’m currently learning **Tensorflow/Keras**

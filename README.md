@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/surya-vamsi-d-78bb58111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surya-vamsi-d-78bb58111" height="30" width="30" /></a>&nbsp;
 <a href="https://www.reddit.com/user/suryavamsi06" targe="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='suryavamsi06' height='30' width="30"></a>
 </p>
-
+![Profile views](https://gpvc.arturio.dev/[suryavamsi6])
 - 🔭 I’m currently working on my Final Year Project **Face Mask Detection**
 
 - 🌱 I’m currently learning **Tensorflow/Keras**

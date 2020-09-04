@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Tensorflow/Keras**
 
-- 👨‍💻 Have a look at my Website [suryavamsi6.github.io](suryavamsi6.github.io)
+- 👨‍💻 Have a look at my Website [suryavamsi6.github.io](https://suryavamsi6.github.io/)
 
 - 📫 How to reach me **d.suryavamsi@gmail.com**
 

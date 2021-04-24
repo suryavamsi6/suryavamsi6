@@ -34,5 +34,4 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<div><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryavamsi6&theme=dracula" alt="suryavamsi6" /></div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=dark)

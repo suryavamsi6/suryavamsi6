@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
-<h3 align="center">Final Year Student at SASTRA University</h3>
+<h3 align="center">Full Stack Developer/h3>
 <div align="center" style="padding-top:10px;padding-bottom: 10px"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryavamsi6&theme=onedark" alt = "suryavamsi6" /></a></div>
 
 - 🔭 I’m currently working Onsite at Morgan Stanley as a Consultant from Wiley

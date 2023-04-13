@@ -2,11 +2,11 @@
 <h3 align="center">Final Year Student at SASTRA University</h3>
 <div align="center" style="padding-top:10px;padding-bottom: 10px"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryavamsi6&theme=onedark" alt = "suryavamsi6" /></a></div>
 
-- 🔭 I’m currently working on my Final Year Project **Face Mask Detection**
+- 🔭 I’m currently working Onsite at Morgan Stanley as a Consultant from Wiley
 
-- 🌱 I’m currently learning **Tensorflow/Keras**
+- 🌱 I’m currently learning NextJs
 
-- 👨‍💻 Have a look at my Website [suryavamsi6.github.io](https://suryavamsi6.github.io/)
+- 👨‍💻 Have a look at my Website suryavamsi6.github.io (Under Construction)
 
 - 📫 How to reach me **d.suryavamsi@gmail.com**
 
